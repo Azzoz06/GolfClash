@@ -1,6 +1,6 @@
 # Golf Clash - France PACA Clan
 
-**Auteur:** Emmanuel (Président)
+**Auteur:** Emmanuel (Président)  
 **Dernière mise à jour:** 28 Juin 2019
 
 ---
